@@ -2,4 +2,4 @@ data/Udacity_AZDIAS_052018.csv
 data/Udacity_CUSTOMERS_052018.csv
 data/clean_AZDIAS.csv
 data/clean_CUSTOMERS.csv
-logs.txt
+.ipynb_checkpoints
