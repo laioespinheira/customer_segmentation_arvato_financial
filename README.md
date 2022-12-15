@@ -39,7 +39,7 @@ On it we will find:
 
 ## Results
 
-A ```medium``` post was made with details about the findings presented on this project. You can find it at [I'm an inline-style link](https://www.google.com)
+A ```medium``` post was made with details about the findings presented on this project. You can find it at [my medium post]([https://www.google.com](https://medium.com/@laioespinheira/customer-segmentation-on-demographics-data-eab4ba140bac))
 
 # Acknowledgements
 
